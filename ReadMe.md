@@ -70,7 +70,7 @@
 - [区间检索（1D） - 303](https://leetcode.com/problems/range-sum-query-immutable/description/)
 - [区间检索（2D） - 304](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 - [最大子数组 - 53](https://leetcode.com/problems/maximum-subarray/description/)
-- [前缀和 + 哈希表 - 209](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+- [前缀和 + 滑动窗口 - 209](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 - [前缀和+二分 - 528](https://leetcode.com/problems/random-pick-with-weight/description/)
 - [目标和子数组 - 560](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 - [前缀积 - 238](https://leetcode.com/problems/product-of-array-except-self/description/)
